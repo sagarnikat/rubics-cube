@@ -31,7 +31,7 @@ The cube engine:
 ### Required
 - **C++17 compiler** (`g++`, `clang++`, etc.)
 - **raylib** graphics library (and development headers)
-- A font file named **`Inter-Black.otf`** placed at: /resourcs/Inter-Black.otf
+- A font file named **`Inter-Black.otf`** placed at: /resources/Inter-Black.otf
 - **Kociemba command-line solver** for solvability checking and generating optimal-ish solutions  
   Install via pip:
 ```bash
